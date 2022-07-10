@@ -1,0 +1,75 @@
+/*
+Theme Name: Assignment 1 Theme
+Author: Sean McKay
+StudentID: W0450430
+CourseID: WEBD3027
+Date: March 5, 2022 -7:50 pm
+Description: Theme for Assignment 1
+Version: 1.0
+*/
+
+body {
+    margin:auto;
+    color: black;
+}
+
+p {
+    font-size: 14px;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: black;
+    
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    text-decoration: none;
+}
+
+.col-3 li {
+    padding-top: 15px;
+}
+
+#menubottom {
+    background-color: darkgrey;
+}
+
+#sections {
+    padding:30px
+}
+
+#space {
+    padding: 40px;
+}
+
+#category, #local {
+    border-bottom: 2px solid black;
+    padding-bottom: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#menutop {
+    padding: 20px;
+}
+
+img {
+    width: 400px;
+}
+
+#footer {
+    border-top: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+#news {
+    font-weight: bold;
+}
